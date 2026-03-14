@@ -1,0 +1,3 @@
+|    Nom        |    Prenom     |           Email            |    Password    |
+| Addi          | Mohamed.Amine | addi.mohammedAmi@uae.ac.ma | Respo1Biblio00 |
+| Errahouti     | Aya           | errahouti.aya@uae.ac.ma    | Respo2Biblio11 |

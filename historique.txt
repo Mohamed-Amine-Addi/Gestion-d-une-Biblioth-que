@@ -1,0 +1,23 @@
+|                         TITRE                        | IDAdherant | dateEmprt  | DateRetour | TypeAction |
+| introduction.to.algorithm                            | 5M8901593Y | 2025-02-12 | 2025-03-12 | EMPRUNT    |
+| structure.and.intrepretion.of.computer.programs      | 6X193804N1 | 2025-02-12 | 2025-03-12 | EMPRUNT    |
+| The.Society.of.Mind                                  | 9Aj090677L | 2025-05-11 | 2025-06-11 | EMPRUNT    |
+| Joel.On.Software                                     | 9Aj090677L | 2025-02-09 | 2025-03-09 | EMPRUNT    |
+| Feyman.Lectures.On.Computing                         | 9Aj090677L | 2025-11-30 | 2025-12-30 | EMPRUNT    |
+| Pro.Git                                              | D3A7816940 | 2025-05-01 | 2025-06-01 | RESTITUE   |
+| Chaos:Making.a.New.Science                           | 5M8901593Y | 2025-03-25 | 2025-04-25 | EMPRUNT    |
+| Structured.Computer.Organisation                     | D3A7816940 | 2025-04-02 | 2025-05-02 | EMPRUNT    |
+| DataBase.System.Concepts                             | 0H20560012 | 2025-06-13 | 2025-07-13 | RESTITUE   |
+| Pro.Git                                              | D3A7816940 | 2025-12-09 | 2026-01-09 | EMPRUNT    |
+| Chaos:Making.a.New.Science                           | D3A7816940 | 2025-12-14 | 2026-01-14 | EMPRUNT    |
+| DataBase.System.Concepts                             | D3A7816940 | 2025-12-20 | 2026-01-20 | RESTITUE   |
+| Java.Script                                          | D3A7816940 | 2025-12-21 | 2026-01-21 | RESTITUE   |
+| Introduction.to.the.theory.of.computation            | D3A7816940 | 2025-12-21 | 2026-02-21 | RESTITUE   |
+| Pro.Git                                              | 46054GV692 | 2025-12-21 | 2026-01-21 | RESTITUE   |
+| Hacker's.Delight                                     | 46054GV692 | 2025-12-21 | 2026-01-21 | EMPRUNT    |
+| Pro.Git                                              | D3A7816940 | 2022-12-04 | 2024-12-05 | RESTITUE   |
+| Pro.Git                                              | D3A7816940 | 2026-01-11 | 2026-02-11 | RESTITUE   |
+| Java.Script                                          | D3A7816940 | 2025-12-26 | 2026-01-26 | EMPRUNT    |
+| DataBase.System.Concepts                             | D3A7816940 | 2025-12-26 | 2026-01-26 | EMPRUNT    |
+| Pro.Git                                              | D3A7816940 | 2025-12-26 | 2025-12-30 | EMPRUNT    |
+| computational.Complexity                             | D3A7816940 | 2025-12-27 | 2025-12-31 | EMPRUNT    || Java.Script                                          | D3A7816940 | 2025-12-26 | 2025-12-27 | RESTITUE   |

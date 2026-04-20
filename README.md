@@ -1,7 +1,7 @@
 # Gestion-d-une-Bibliotheque
 Développement d’une application de gestion  d'une Bibliothèque
-🔹 Architecture et fonctionnalités
 
+🔹 Architecture et fonctionnalités
 L’application est organisée autour de deux espaces distincts :
 👨‍💼 Espace Responsable (Administrateur):
 Gestion du catalogue (ajout, recherche, suppression),
